@@ -8,8 +8,7 @@
 
 
 ### 🌱 Currently Working On
-- Engineering a high-performance electric circuit simulation architecture using Common Lisp.
-- Expanding capabilities in low-level systems languages (Rust, Zig, C/C++) for systems tooling.
+- Expanding capabilities in low-level systems languages (Rust, C/C++, Swift) for systems tooling.
 
 ### 💻 Tech Stack
 
