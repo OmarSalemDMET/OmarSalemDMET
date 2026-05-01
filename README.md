@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="25">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="25">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="25">
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" height="25">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="25">
   <img src="https://img.shields.io/badge/Common_Lisp-4A148C?style=for-the-badge&logo=lisp&logoColor=white" alt="Lisp" height="25">
+  <img src="https://img.shields.io/badge/Scheme-CC2229?style=for-the-badge&logoColor=white" alt="Scheme" height="25">
 </p>
 
 **Web Stack 1: Go Ecosystem**
