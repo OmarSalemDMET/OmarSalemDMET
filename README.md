@@ -9,7 +9,7 @@
 
 
 ### 🌱 Currently Working On
-- Expanding capabilities in Machine Learning on devices with limited resources.
+- Expanding capabilities in Machine Learning (specifically deploying models) on devices with limited resources.
 
 ### 💻 Tech Stack
 
