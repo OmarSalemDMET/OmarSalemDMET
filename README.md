@@ -3,12 +3,13 @@
 `Digital Media Engineer`/`Computer Engineer`/`Software Engineer`. Focused on low-level systems architecture, high-performance graphics pipelines, and signal processing.
 
 ### 🔭 Focus Areas & Interests
+- **Machine Learning**: Building and training CNNs, RNNs and Mamba Models.
 - **Systems & Graphics:** Bare-metal, hardware-accelerated frameworks (OpenGL, Metal), and custom memory management.
 - **Audio & DSP:** Audio signal processing, bioacoustics, and acoustic engineering (LUFS).
 
 
 ### 🌱 Currently Working On
-- Expanding capabilities in low-level systems languages (Rust, C/C++, Swift) for systems tooling.
+- Expanding capabilities in Machine Learning on devices with limited resources.
 
 ### 💻 Tech Stack
 
