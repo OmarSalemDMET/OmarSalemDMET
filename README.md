@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="25">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="25">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" height="25">
-  <img src="https://img.shields.io/badge/Common_Lisp-4A148C?style=for-the-badge&logo=lisp&logoColor=white" alt="Common Lisp" height="25">
-  <img src="https://img.shields.io/badge/Scheme-CC2229?style=for-the-badge&logoColor=white" alt="Scheme" height="25">
+  <img src="https://img.shields.io/badge/Common_Lisp-4A148C?style=for-the-badge&logo=commonlisp&logoColor=white" alt="Common Lisp" height="25">
+  <img src="https://img.shields.io/badge/Scheme-CC2229?style=for-the-badge&logo=lisp&logoColor=white" alt="Scheme" height="25">
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" height="25">
   <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" height="25">
 </p>
